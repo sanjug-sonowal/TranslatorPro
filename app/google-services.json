@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413005099806",
+    "project_id": "translator-pro-75138",
+    "storage_bucket": "translator-pro-75138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413005099806:android:3157f255970cadb6ddcf0f",
+        "android_client_info": {
+          "package_name": "com.testing.protranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413005099806-cmvu3p5uef2tge9hg1c5u3opqgj4mbsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq4sNSCn-9L-b9bbFKapA6IZuGX_5oCDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413005099806-cmvu3p5uef2tge9hg1c5u3opqgj4mbsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
